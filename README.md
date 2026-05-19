@@ -34,13 +34,15 @@ Created for a university app development contest.
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/409eff31-8478-4c0e-a3d7-aa308b8a657f" width="230"/>
-  <img src="https://github.com/user-attachments/assets/bd6e5ee3-e7f2-4ba2-ab83-62965d06f4a6" width="230"/>
-  <img src="https://github.com/user-attachments/assets/e3ee19e3-767e-415f-8432-246c57a46cfb" width="230"/>
+  <img width="230" alt="Screenshot_20260519-125351~2" src="https://github.com/user-attachments/assets/a9d31215-c5da-4cac-8af6-86d3d72c19ff" />
+  <img width="230" alt="Screenshot_20260519-125351 (1)" src="https://github.com/user-attachments/assets/6e4fa401-cb7f-4e04-b3e0-0e8be6f6a39d" />
+  <img width="230" alt="Screenshot_20260519-125401~2" src="https://github.com/user-attachments/assets/0b344bd6-191a-4b0a-9f08-f3ddcf5451f5" />
+
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c99ca68d-b3e0-4d77-b421-21df113f83b2" width="700"/>
+  <img width="230" alt="Screenshots_2026-05-19-13-04-27" src="https://github.com/user-attachments/assets/fb4256fc-ac48-44ff-bb49-724e4bf6968f" />
+
 </p>
 
 ---
