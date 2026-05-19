@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_change_picture" android:title="Change Profile Picture" />
+    <item android:id="@+id/menu_change_username" android:title="Change Username" />
+    <item android:id="@+id/menu_logout" android:title="Log Out" />
+    <item android:id="@+id/menu_delete_account" android:title="Delete Account" />
+</menu>

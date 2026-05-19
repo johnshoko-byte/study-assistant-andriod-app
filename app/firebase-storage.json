@@ -1,0 +1,25 @@
+{
+  "users": {
+    "TYKFMkAPbRgUIAL363LbaM1zuS82": {
+      "points": 10,
+      "exams": {
+        "2025-09-25": {
+          "-Exam1": {
+            "text": "Math Paper 1",
+            "timestamp": 1695552000000
+          }
+        }
+      },
+      "revisions": {
+        "2025-09-25": {
+          "-Rev1": {
+            "text": "Revise Algebra",
+            "completed": false,
+            "timestamp": 1695552000000
+          }
+        }
+      }
+    }
+  }
+}
+

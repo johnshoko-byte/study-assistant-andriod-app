@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rootLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#F5F5F5"
+    android:padding="16dp">
+
+    <!-- Page title -->
+    <TextView
+        android:id="@+id/tvAddDeckTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Create New Deck"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="24dp"
+        android:textColor="@color/black"/>
+
+    <!-- Deck Title -->
+    <EditText
+        android:id="@+id/etDeckTitle"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:hint="Deck Title"
+        android:textSize="16sp"
+        android:padding="16dp"
+        android:background="@android:drawable/edit_text"
+        android:layout_marginBottom="24dp"
+        android:textColor="@color/black"
+        android:textColorHint="@color/text_secondary"/>
+
+    <!-- Public/Private Selection -->
+    <RadioGroup
+        android:id="@+id/radioGroupVisibility"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginBottom="16dp">
+
+        <RadioButton
+            android:id="@+id/radioPublic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Public"
+            android:checked="true"
+            android:layout_marginEnd="24dp"
+            android:textColor="@color/black"/>
+
+        <RadioButton
+            android:id="@+id/radioPrivate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Private"
+            android:textColor="@color/black"/>
+    </RadioGroup>
+
+    <!-- Scrollable area for Term/Definition pairs -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:contentDescription="Deck cards container"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:textColor="@color/black">
+
+        <LinearLayout
+            android:id="@+id/cardsContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:textColor="@color/black"/>
+    </ScrollView>
+
+    <!-- Add Card button -->
+    <Button
+        android:id="@+id/btnAddCard"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:text="Add Card"
+        android:backgroundTint="#03DAC5"
+        android:textColor="#000000"
+        android:textAllCaps="false"
+        android:elevation="4dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- Save Deck button -->
+    <Button
+        android:id="@+id/btnSaveDeck"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:text="Save Deck"
+        android:backgroundTint="#6200EE"
+        android:textColor="#FFFFFF"
+        android:textAllCaps="false"
+        android:elevation="4dp"/>
+</LinearLayout>
