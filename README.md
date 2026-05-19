@@ -57,8 +57,10 @@ git clone https://github.com/johnshoko-byte/study-assistant-andriod-app.git
 
 4. Run the app on an emulator or Android device
 
-or
-dowload apk and install on andriod device/emulator
+   or
+
+download apk and install on andriod device/emulator
+
 ---
 
 
