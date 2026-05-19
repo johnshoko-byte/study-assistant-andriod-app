@@ -1,9 +1,9 @@
-# FocusFlow
+# Studysync
 
-A modern study assistant app built with :contentReference[oaicite:0]{index=0} to help students stay organized, study smarter, and improve productivity.
+A modern study assistant app built with to help students stay organized, study smarter, and improve productivity.
 
 Created for a university app development contest.
-
+Won Runner-up
 ---
 
 ## Features
