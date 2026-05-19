@@ -34,13 +34,9 @@ Created for a university app development contest.
 ## Screenshots
 
 <p align="center">
+  <img width="230" alt="Screenshots_2026-05-19-13-04-02" src="https://github.com/user-attachments/assets/730ae9b7-2219-4ad0-8e97-1aeb81c5a12e" />
   <img width="230" alt="Screenshot_20260519-125351~2" src="https://github.com/user-attachments/assets/a9d31215-c5da-4cac-8af6-86d3d72c19ff" />
-  <img width="230" alt="Screenshot_20260519-125351 (1)" src="https://github.com/user-attachments/assets/6e4fa401-cb7f-4e04-b3e0-0e8be6f6a39d" />
   <img width="230" alt="Screenshot_20260519-125401~2" src="https://github.com/user-attachments/assets/0b344bd6-191a-4b0a-9f08-f3ddcf5451f5" />
-
-</p>
-
-<p align="center">
   <img width="230" alt="Screenshots_2026-05-19-13-04-27" src="https://github.com/user-attachments/assets/fb4256fc-ac48-44ff-bb49-724e4bf6968f" />
 
 </p>
